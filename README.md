@@ -1,4 +1,4 @@
-#Natural Language Deduction with Incomplete Information
+# Natural Language Deduction with Incomplete Information
 
 
 <image src="./images/overview.png"></image>
