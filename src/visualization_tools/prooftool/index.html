@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <style>
+            body {
+                font: 10pt Arial, Helvetica, sans-serif;
+                overflow: scroll;
+                margin: 10px;
+            }
+            #menu {
+                border: 1px solid #444;
+                border-radius: 2px;
+                display: inline-block;
+                position: fixed;
+                top: 10px;
+                left: 10px;
+                padding: 5px;
+                z-index: 2;
+                background-color: #fff;
+            }
+            .label {
+                color: #666;
+            }
+            .gap {
+                padding-left: 1em;
+            }
+            input[type=number] {
+                width: 4em;
+            }
+            input[type=file] {
+                display: none;
+            }
+            #view {
+                z-index: 0;
+                position: relative;
+            }
+            #view > svg {
+                position: absolute;
+            }
+            .node {
+                position: absolute;
+                padding: 5px 5px;
+                display: inline-block;
+                text-align: center;
+                box-sizing: border-box;
+                border: 3px solid rgba(0, 0, 0, 0);
+                border-radius: 3px;
+                z-index: 1;
+                min-height: 25px;
+            }
+            .node .textContainer:empty::after {
+                content: "Empty term";
+                font-style: italic;
+                color: rgba(0, 0, 0, 0.25);
+            }
+            .node.goal {
+                color: #00882b;
+                background-color: #daeccc;
+            }
+            .node.premise {
+                background-color: #dceaf6;
+            }
+            .node.intermediate {
+                background-color: #164f86;
+                color: white;
+            }
+            .node.forward {
+                background-color: #164f86;
+                color: white;
+            }
+            .node.hpremise {
+                background-color: #fffad2cc;
+            }
+            .node.hgoal {
+                color: #00882b;
+                background-color: #daeccc;
+            }
+            .node.mpremise {
+                /*background-color: #FF8484D0;*/
+              color: #00882b;
+              border: None;
+              background:
+                 repeating-linear-gradient(
+                  -55deg,
+                  #FFF,
+                  #FFF 10px,
+                  #e2f0ffd0 10px,
+                  #e2f0ffd0 20px
+                );
+            }
+            .node.hypotheses {
+                background-color: #5f327c;
+                color: white;
+            }
+            .node.abductive {
+                background-color: #5f327c;
+                color: white
+            }
+            .node.recovered_premise{
+                /*background-color: #ffb6c1;*/
+              color: #bd5a0c;
+              border: None;
+              background:
+                 repeating-linear-gradient(
+                  -55deg,
+                  #FFF,
+                  #FFF 10px,
+                  #e2f0ffd0 10px,
+                  #e2f0ffd0 20px
+                );
+
+            }
+            .node.selected {
+                border-color: rgba(92, 128, 255, 0.5);
+                z-index: 2;
+            }
+            .marker {
+                font-weight: bold;
+            }
+            .marker, button, #menu {
+                user-select: none;
+                -webkit-user-select: none;
+            }
+            .node .score {
+                color: rgba(0, 0, 0, 0.5);
+            }
+            .node .score.success {
+                color: green;
+            }
+            .controls {
+                padding: 0px;
+                margin: 0px;
+                height: 0px;
+                position: absolute;
+                bottom: -10px;
+                white-space: nowrap;
+                display: none;
+            }
+            .node.selected .controls {
+                display: block;
+            }
+            #view.linking .node.selected .controls, .node.editing .controls {
+                display: none;
+            }
+            .node.selected:hover {
+                cursor: text;
+            }
+            #view.linking:hover {
+                cursor: crosshair;
+            }
+            #view.linking .node:hover {
+                cursor: crosshair;
+            }
+            #view.linking .node:not(.selected):hover {
+                border-color: rgba(255, 192, 92, 0.5);
+            }
+        </style>
+        <script src="tree_tool.js"></script>
+        <title>Tree Editor</title>
+    </head>
+    <body>
+        <div id="menu">
+            <button id="importButton">Import</button>
+            <input type="file" id="fileSelect" accept=".json,.jsonl" />
+            <button id="exportButton">Export</button>
+            <span class="label gap">Example:</span> <input type="number" id="exampleSelect" min="0" disabled required />
+            <button id="newExampleButton">New example</button>
+        </div>
+        <div id="view"></div>
+    </body>
+</html>

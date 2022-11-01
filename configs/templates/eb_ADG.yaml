@@ -1,0 +1,102 @@
+default:
+  create_shallow_trees:
+    depth: -1
+    min_depth: -1
+    max_depth: -1
+    allow_small_trees: false
+
+  create_premise_masked_trees:
+    premises_to_mask: 1
+
+  search:
+    max_steps: 50
+    torch_devices: ['cuda:0', 'cuda:1', 'cuda:2']
+    termination_criteria: []
+    validator_names: ['GeneratedInput','ConsanguinityThreshold']
+
+    nums_return_sequences: [40, 4]
+
+    forward_agreement_validator_forward_model_name: 't5_3b_eb_only_all_step'
+    forward_agreement_validator_entailment_model_name: 'wanli_entailment_model'
+    forward_agreement_validator_agreement_threshold: 0.7
+    forward_agreement_validator_mutual_entailment: true
+
+    abductive_agreement_validator_abductive_model_name: 't5_3b_abductive_eb_only'
+    abductive_agreement_validator_entailment_model_name: 'wanli_entailment_model'
+    abductive_agreement_validator_agreement_threshold: 0.6
+    abductive_agreement_validator_invalid_input_tolerance: 0
+    abductive_agreement_validator_mutual_entailment: true
+
+    consanguinity_threshold_validator_threshold: 1
+
+  score_searches:
+    score_method: ['rouge+entailment']
+    score_type: ['missing_premises']
+    eval_methods: ['gold_to_prediction']
+    score_steps: ['hypotheses']
+    torch_devices: ['cuda:0', 'cuda:1', 'cuda:2']
+
+  find_tree_proofs:
+    proof_methods: ['RecoveredMissingPremise']
+    threshold_values: [0.7]
+
+  score_proofs:
+    score_methods: ['forward_agreement']
+    forward_step_model_name: 't5_3b_eb_only_all_step'
+    torch_devices: ['cuda:0', 'cuda:1', 'cuda:2']
+
+  convert_to_csv:
+    write_step_types: ['intermediate', 'hypothesis']
+
+  recover_premise_csv:
+    write_step_types: [ 'intermediate', 'hypothesis' ]
+    recover_threshold: 0.7
+
+abductive_and_forward:
+  search:
+    heuristic: "StepTypeModeled"
+    step_types: ["abductive", "forward"]
+    step_model_names: ["t5_3b_abductive_eb_only", "t5_3b_eb_only_all_step"]
+
+abductive_only:
+  search:
+    heuristic: "StepTypeModeled"
+    step_types: [ "abductive" ]
+    step_model_names: [ "t5_3b_abductive_eb_only" ]
+    nums_return_sequences: [ 40 ]
+
+  score_searches:
+    score_method: ['rouge+entailment']
+    score_type: ['missing_premises']
+    eval_methods: [ 'gold_to_prediction' ]
+    score_steps: ['hypotheses']
+
+  recover_premise_csv:
+    write_step_types: [ 'hypothesis' ]
+
+forward_only:
+  search:
+    heuristic: "StepTypeModeled"
+    step_types: ["forward"]
+    step_model_names: [ "t5_3b_eb_only_all_step" ]
+    nums_return_sequences: [4]
+
+  score_searches:
+    score_method: ['rouge+entailment']
+    score_type: ['missing_premises']
+    eval_methods: ['gold_to_prediction' ]
+    score_steps: ['intermediates']
+
+  find_tree_proofs:
+    proof_methods: [ 'IntermediateToGoal' ]
+    threshold_values: [ 0.7 ]
+
+  convert_to_csv:
+    write_step_types: [ 'intermediate' ]
+
+  recover_premise_csv:
+    write_step_types: [ 'intermediate' ]
+
+mac:
+  search:
+    torch_device: 'cpu'

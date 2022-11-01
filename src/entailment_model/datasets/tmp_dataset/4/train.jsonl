@@ -1,0 +1,148 @@
+{"premise": "A new moon will occur on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The nucleus of an atom has more mass than an electron.", "hypothesis": "Most of the mass of an atom is located in the nucleus.", "label": 1}
+{"premise": "Atom is a particle that is made of a core core surrounded by electrons and a nucleus surrounded by electron.", "hypothesis": "An atom is made of a core of protons and neutrons surrounded by electrons.", "label": 1}
+{"premise": "A wire is made of copper material.", "hypothesis": "Copper is a material that is an electrical conductor.", "label": 1}
+{"premise": "A new moon will happen on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The small intestine is part of the digestive system that absorbs nutrients from food into itself by eating.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 2}
+{"premise": "A fish is a kind of scaled animal that uses their scales to defend themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "Mercury orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "Mercury is a planet in the solar system that orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "Someone looking into a mirror that reflects light is able to be seen.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "A leaf photosynthesizing makes food for the plant by converting carbon dioxide, water, and sunlight into carbohydrates.", "hypothesis": "A leaf makes food for the plant by converting sunlight into carbohydrates.", "label": 2}
+{"premise": "Looking at light is an example of reflection.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "The nucleus of an atom is surrounded by almost empty space.", "hypothesis": "An atom has a positive core surrounded by mostly empty space.", "label": 1}
+{"premise": "A meter stick can be used to record the height and the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 2}
+{"premise": "Burning wood converts chemical energy into thermal energy.", "hypothesis": "The chemical energy in wood is transformed into thermal energy.", "label": 2}
+{"premise": "Information in an organism's chromosomes causes an inherited characteristic to be passed from parent to offspring by dna.", "hypothesis": "Children usually resemble parents.", "label": 1}
+{"premise": "A physicist studies the mechanical energy required for a simple machine to function.", "hypothesis": "A physicist is the scientist who study the relationship between simple machines and energy.", "label": 1}
+{"premise": "A flood can cause the resources used by organisms in a body of water to increase.", "hypothesis": "A flood may cause the population of salamander to increase in an environment.", "label": 1}
+{"premise": "To improve means to have a positive impact on exercise.", "hypothesis": "Exercise can help a human maintain good health.", "label": 1}
+{"premise": "A meter stick can be used to record the position of the door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Objects are made up of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "Transferring heat from an egg will cause the egg to decrease in temperature.", "hypothesis": "The water will increase in temperature and the egg will decrease in temperature.", "label": 1}
+{"premise": "A meter stick can be used to record the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Particles in a liquid are slower than particles in a gas to flow past each other.", "hypothesis": "Particles in a liquid are closer together and slower than particles in a gas.", "label": 1}
+{"premise": "The heart pumping blood to the rest of the body is an example of a heart working together with blood vessels, kidneys, and bladder.", "hypothesis": "The heart, blood vessels, kidneys, and bladder working together makes them an organ system.", "label": 1}
+{"premise": "A plant is a kind of organism in the biological kingdom plantae.", "hypothesis": "That organism is a part of the biological kingdom plantae.", "label": 1}
+{"premise": "Earth rotating on its axis causes cycles of day and night once per day.", "hypothesis": "The earth rotating on its tilted axis causes the cycles of day and night on earth.", "label": 1}
+{"premise": "The excretory system removes waste from the body.", "hypothesis": "The excretory system removes waste from the body.", "label": 2}
+{"premise": "The student is studying the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "Andy lives in August during the winter in the southern hemisphere.", "hypothesis": "Andy will experience winter in southern hemisphere in august.", "label": 1}
+{"premise": "Longitudinal waves cause the object to move in the same direction as the wave.", "hypothesis": "Compression waves cause object to move in the same direction of the wave.", "label": 1}
+{"premise": "Light absorbs solar energy and transfers solar energy to something else.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Water is in the solid state, and hail is a kind of ice.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Fossil fuel is the component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}
+{"premise": "A rheumatoid arthritis will happen first before other diseases affect the body's tissues.", "hypothesis": "The immune system becomes disordered first before rheumatoid arthritis occurs.", "label": 1}
+{"premise": "The formation of rocks requires quartz and feldspar.", "hypothesis": "Sometimes rocks are formed by quartz and feldspar mixed together.", "label": 1}
+{"premise": "Sedimentary deposits contain organic material made of carbon, hydrogen, and oxygen.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "To be used for exercise can help to maintain good health.", "hypothesis": "Exercise can help a human maintain good health.", "label": 1}
+{"premise": "Kidney is a vehicle for removing bodily waste / cell waste / byproducts from the body.", "hypothesis": "The kidneys help remove waste from the body.", "label": 2}
+{"premise": "Combining baking soda with vinegar is a kind of process.", "hypothesis": "Combining baking soda and vinegar can cause chemical reactions.", "label": 1}
+{"premise": "Gardens are located outside during the day and will receive sunlight.", "hypothesis": "The plants in the gardens will receive the most sunlight in summer to grow during the day.", "label": 1}
+{"premise": "Elephant and baby animals become adult animals.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Infection can cause throat to swell.", "hypothesis": "The swelling of throat tissues is a kind of condition that can result from infection.", "label": 2}
+{"premise": "A wildfire causes a tree to catch fire.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "If ice transfers energy to something else then that something else will melt and heat and melt above its melting point.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "Sunlight is a kind of energy.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Sugar is soluble in water. \"", "hypothesis": "Sugar cubes will dissolve in water when they are combined.", "label": 2}
+{"premise": "Electrons are the smallest particle in an atom that has a negative electric charge.", "hypothesis": "The smallest, negatively-charged particles in the atom orbit the nucleus of the atom.", "label": 1}
+{"premise": "The asteroid belt is the set of objects containing the largest concentration of asteroids between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "Electron is the smallest particle in an atom that has a negative -1 electric charge.", "hypothesis": "The smallest, negatively-charged particles in the atom orbit the nucleus of the atom.", "label": 1}
+{"premise": "Eating / taking in food is used to get nutrients / energy by animals and leafy vegetables are used to getting minerals by living things.", "hypothesis": "Leafy vegetables are a good source of minerals.", "label": 2}
+{"premise": "If the amount of fish eaten decreases in amount then some animals that eat fish will lack food to survive.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "A student can study the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "Sierra nevada mountains can limit the water vapor reaching nevadas.", "hypothesis": "Sierra nevada mountains can limit the water vapor reaching nevada.", "label": 2}
+{"premise": "Different solids are combined to maintain their physical properties.", "hypothesis": "Different solids that are combined will become a mixture.", "label": 1}
+{"premise": "When a person moves, chemical energy is transferred to mechanical energy and then into shivers.", "hypothesis": "When a person shivers, chemical energy is converted to mechanical energy.", "label": 2}
+{"premise": "Preventing tree roots from overgrazing decreases the amount of soil erosion caused by the roots of the plant.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "If a pot is exposed to the air, then the heat will transfer to the handle and cause the handle to become hot.", "hypothesis": "If a pot become hot, then the handle of the pot will become hot.", "label": 1}
+{"premise": "Lungs and skin are used to perform the function of breathing in birds and frogs.", "hypothesis": "The function of skin on frogs is similar to the function of lungs in birds.", "label": 2}
+{"premise": "Lichens and soil are similar to being produced by breaking down rocks.", "hypothesis": "Lichens breaking down rocks can form soil.", "label": 1}
+{"premise": "Some animals that eat fish will starve.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "Class is used to describe the sedimentary / metamorphic / igneous characteristics of a rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "Rock class is a property of the rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "A comet orbit is elliptical and occurs once per 1000 years.", "hypothesis": "Comets are the kind of celestial object that has a highly elliptical orbit and has a period of over 1000 years.", "label": 1}
+{"premise": "Bone is rigid and can be used for protection.", "hypothesis": "Protection and support are jobs of the skeletal system.", "label": 1}
+{"premise": "Salt and water combined together will form a mixture.", "hypothesis": "Salt water is a kind of mixture.", "label": 2}
+{"premise": "Yard is an imperial unit used to describe the length of an object.", "hypothesis": "Meter is the metric unit that is the most similar to yard.", "label": 1}
+{"premise": "Water absorbing solar energy in the water cycle causes objects to heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "Students classify leaves by their shape.", "hypothesis": "Students are classifying the leaves by their properties.", "label": 1}
+{"premise": "Melting is a kind of state change of matter.", "hypothesis": "Ice melting is a kind of physical change.", "label": 1}
+{"premise": "Brass is made of two or more metals.", "hypothesis": "Brass is a kind of alloy.", "label": 1}
+{"premise": "The moon orbits the earth and is a new moon.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Digestion of food occurs in the small intestine.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 1}
+{"premise": "The vomiting reflex is used to interact with toxic material.", "hypothesis": "The main function of the vomiting reflex is to remove toxic material from the stomach before it is absorbed.", "label": 1}
+{"premise": "The sun rising / setting is part of one day.", "hypothesis": "The sun rising and setting is the event that occurs once per day.", "label": 2}
+{"premise": "Mercury has a year of 88 earth days and orbits the sun.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 1}
+{"premise": "The asteroid belt is the system containing the largest concentration of asteroids in the solar system between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "Earth rotating causes cycles of day and night on earth.", "hypothesis": "Earth rotating on its axis causes the cycle of day and night on earth.", "label": 1}
+{"premise": "The person in a dark room is not seeing.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Earthworms can form tunnels in soil and provide nutrients for plants.", "hypothesis": "Earthworms creating tunnels has a positive impact on the growth of plant roots by loosening the soil.", "label": 1}
+{"premise": "A robin is a kind of predator.", "hypothesis": "The robin is the predator and the cricket is the prey.", "label": 1}
+{"premise": "Objects in a mountain and in a body of water are part of two kinds of environment.", "hypothesis": "The environment has changed from a body of water to mountains.", "label": 1}
+{"premise": "A lamp converts electrical energy into light and heat energy and sunlight energy.", "hypothesis": "A lamp converts electrical energy to light and heat energy.", "label": 2}
+{"premise": "Water absorbing sunlight produces heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "A food preference is a kind of hereditary information that is passed from parent to offspring by genetics / dna.", "hypothesis": "Food preference is not inherited from parents.", "label": 1}
+{"premise": "The cell nucleus is part of the cell that regulates the cell structure.", "hypothesis": "The cell nucleus is part of the cell that controls many of the functions of the cell.", "label": 1}
+{"premise": "Cell division often causes the growth of adult elephants.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Cell division causes the baby elephant to grow into adult elephant.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Gravity causes the moon to orbit the earth and the earth to have more mass than the moon.", "hypothesis": "Gravity causes the moon to orbit around the earth.", "label": 2}
+{"premise": "The kuiper belt is icy in color.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "Claws are used to catch food by predators.", "hypothesis": "Claws are used by some birds to catch food.", "label": 1}
+{"premise": "An animal is a consumer in the food chain process.", "hypothesis": "In the food chain process a human has the role of consumer.", "label": 1}
+{"premise": "Wildfire is used to produce heat in a forest.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "Objects are made of means made of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "Sugar dissolving in water will form a solution.", "hypothesis": "Sugar water is a mixture.", "label": 1}
+{"premise": "A fish is a kind of scaled animal that uses their scales to protect themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "The kuiper belt is freezing.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "The supply of solar energy will not change for a longer period of time than 10 years.", "hypothesis": "The supply of solar energy will not change over billions of years.", "label": 1}
+{"premise": "If the amount of food that an animal eats decreases in amount then that animal will lack food.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "If heat is absorbed from ice then ice will cool.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "A larger power source will increase the strength of the electromaget.", "hypothesis": "A larger power source will increase the strength of the electromagnet.", "label": 2}
+{"premise": "Decomposition is when a bacterium breaks down dead organisms and stores nutrients.", "hypothesis": "Bacteria causes soil to become more fertile by breaking down dead plants and animals.", "label": 1}
+{"premise": "Eagles sometimes eat herbivores.", "hypothesis": "An eagle is a kind of carnivore.", "label": 1}
+{"premise": "The height of the alcohol in the tube will increase as the temperature of the liquid increases.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 2}
+{"premise": "The dark half of the moon faces the earth and the solar eclipse is when the moon blocks the earth from the sun.", "hypothesis": "A solar eclipse could only happen during the new moon.", "label": 1}
+{"premise": "The person in the dark room is looking out a window.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Mitosis produces identical copies of the cell nucleus.", "hypothesis": "Mitosis is a source of two identical nuclei.", "label": 2}
+{"premise": "The alcohol in the tube will increase as the temperature of the liquid increases.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 1}
+{"premise": "If ice is exposed to the air, then the heat will transfer to the ice.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "Recycling means reusing notebook paper many times.", "hypothesis": "Notebook paper can be recycled many times.", "label": 1}
+{"premise": "Trees can prevent soil erosion by controlling the roots that anchor plants into the soil.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "Composition is used to describe the rock.", "hypothesis": "Rocks can be classified as sedimentary, metamorphic, or igneous based on how the rock was formed.", "label": 1}
+{"premise": "The person outside in the day is looking into the dark room.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "A heat engine converts heat energy into mechanical energy that can cause objects to move.", "hypothesis": "The mechanical energy converted by the car engine causes the car to move.", "label": 1}
+{"premise": "A new moon will occur on june 30 when the moon orbits the planet earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Moving away from the source increases the distance between the source and the light source.", "hypothesis": "As the distance of the star to earth decreases, the star will appear brighter.", "label": 1}
+{"premise": "A sedimentary deposit contains high amounts of organic material.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "A robin can prey on a cricket.", "hypothesis": "The robin is the predator and the cricket is the prey.", "label": 2}
+{"premise": "The number of parts of something is an example of a property of something that is identical in value.", "hypothesis": "The atomic number of the atom will change.", "label": 1}
+{"premise": "A sedimentary deposit contains high amounts of carbon chains.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "If alcohol is heated, then the height of alcohol will increase.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 2}
+{"premise": "Jumping to catch a ball is a learned characteristic.", "hypothesis": "Jumping to catch a ball is a kind of learned characteristic.", "label": 2}
+{"premise": "Someone looking into a mirror that reflects light is able to see.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "Element nitrogen makes up most of the earth's atmosphere.", "hypothesis": "Element nitrogen makes up most of the earth's atmosphere.", "label": 2}
+{"premise": "Hail and water are different substances.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Oil will float on liquids that are more dense.", "hypothesis": "Oil will float on water.", "label": 1}
+{"premise": "A centimeter is used to describe an object.", "hypothesis": "Centimeter is a metric unit used to describe the length of an object.", "label": 1}
+{"premise": "Infection can cause the swelling of throat tissue.", "hypothesis": "The swelling of throat tissues is a kind of condition that can result from infection.", "label": 2}
+{"premise": "A graduated cylinder can be used to record the volume of water.", "hypothesis": "A graduated cylinder can be used to measure the volume of liquid water and solid water ice.", "label": 1}
+{"premise": "Meter is an imperial unit used to describe the length of an object.", "hypothesis": "Meter is the metric unit that is the most similar to yard.", "label": 1}
+{"premise": "The nucleus of an atom is surrounded by electrons.", "hypothesis": "An atom is made of a core of protons and neutrons surrounded by electrons.", "label": 1}
+{"premise": "Water in ice form is hailing.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Canyons are formed by flowing rivers through erosion and deposition and pouring water onto soil over long periods of time.", "hypothesis": "Pouring water onto soil is similar to the erosion on the canyon formation.", "label": 2}
+{"premise": "Soil contains nutrients for plants to grow.", "hypothesis": "The type of soil may have the greatest impact on plant growth.", "label": 1}
+{"premise": "Food can be used for healing by providing energy.", "hypothesis": "Energy for healing comes from food.", "label": 2}
+{"premise": "Heavy rains can change the earth's surface by depositing soil and sediment rich in nutrients on the surface in flood plains.", "hypothesis": "The soil deposited by a river in flood plains are rich in nutrients.", "label": 1}
+{"premise": "An earthquake can change earth's surface by shaking the ground.", "hypothesis": "An earthquake changes earth's surface quickly.", "label": 1}
+{"premise": "December has the least sunlight in the northern hemisphere during the winter.", "hypothesis": "New york state has the least sunlight during december.", "label": 1}
+{"premise": "A reflecting telescope can be used to observe moons and satellites that orbit a planet.", "hypothesis": "A reflecting telescope can be used to observe the moons that orbit around jupiter.", "label": 1}
+{"premise": "Scales are used for protection by some animals.", "hypothesis": "Scales are used for protection by fish.", "label": 1}
+{"premise": "A student observes the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "Mercury orbits the sun in 88 earth days in the solar system.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "A meter stick can be used to describe the height of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "An automobile has a negative impact on the air.", "hypothesis": "Many automobiles increase the pollution in the air.", "label": 1}
+{"premise": "Elements that are formed by rocks weathering are sediment rocks.", "hypothesis": "Sedimentary rocks are a kind of structure that is formed by materials being deposited then buried then cemented together.", "label": 1}
+{"premise": "A flood can cause the population of organisms in a body of water to decrease.", "hypothesis": "A flood may cause the population of salamander to increase in an environment.", "label": 1}
+{"premise": "The muscular system contains muscles used for pulling.", "hypothesis": "The muscular system pulls bones to move the bones.", "label": 1}
+{"premise": "Fossil fuel is a component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}

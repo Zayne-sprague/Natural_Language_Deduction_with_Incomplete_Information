@@ -1,0 +1,209 @@
+{"premise": "A new moon will occur on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The nucleus of an atom has more mass than an electron.", "hypothesis": "Most of the mass of an atom is located in the nucleus.", "label": 1}
+{"premise": "A wire is made of copper material.", "hypothesis": "Copper is a material that is an electrical conductor.", "label": 1}
+{"premise": "A new moon will happen on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The small intestine is part of the digestive system that absorbs nutrients from food into itself by eating.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 2}
+{"premise": "A fish is a kind of scaled animal that uses their scales to defend themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "Mercury orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "Mercury is a planet in the solar system that orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "A leaf photosynthesizing makes food for the plant by converting carbon dioxide, water, and sunlight into carbohydrates.", "hypothesis": "A leaf makes food for the plant by converting sunlight into carbohydrates.", "label": 2}
+{"premise": "The nucleus of an atom is surrounded by almost empty space.", "hypothesis": "An atom has a positive core surrounded by mostly empty space.", "label": 1}
+{"premise": "A meter stick can be used to record the height and the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 2}
+{"premise": "Information in an organism's chromosomes causes an inherited characteristic to be passed from parent to offspring by dna.", "hypothesis": "Children usually resemble parents.", "label": 1}
+{"premise": "A meter stick can be used to record the position of the door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Objects are made up of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "Transferring heat from an egg will cause the egg to decrease in temperature.", "hypothesis": "The water will increase in temperature and the egg will decrease in temperature.", "label": 1}
+{"premise": "A meter stick can be used to record the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Particles in a liquid are slower than particles in a gas to flow past each other.", "hypothesis": "Particles in a liquid are closer together and slower than particles in a gas.", "label": 1}
+{"premise": "The heart pumping blood to the rest of the body is an example of a heart working together with blood vessels, kidneys, and bladder.", "hypothesis": "The heart, blood vessels, kidneys, and bladder working together makes them an organ system.", "label": 1}
+{"premise": "A plant is a kind of organism in the biological kingdom plantae.", "hypothesis": "That organism is a part of the biological kingdom plantae.", "label": 1}
+{"premise": "Earth rotating on its axis causes cycles of day and night once per day.", "hypothesis": "The earth rotating on its tilted axis causes the cycles of day and night on earth.", "label": 1}
+{"premise": "The excretory system removes waste from the body.", "hypothesis": "The excretory system removes waste from the body.", "label": 2}
+{"premise": "Andy lives in August during the winter in the southern hemisphere.", "hypothesis": "Andy will experience winter in southern hemisphere in august.", "label": 1}
+{"premise": "Light absorbs solar energy and transfers solar energy to something else.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Water is in the solid state, and hail is a kind of ice.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Fossil fuel is the component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}
+{"premise": "A rheumatoid arthritis will happen first before other diseases affect the body's tissues.", "hypothesis": "The immune system becomes disordered first before rheumatoid arthritis occurs.", "label": 1}
+{"premise": "Kidney is a vehicle for removing bodily waste / cell waste / byproducts from the body.", "hypothesis": "The kidneys help remove waste from the body.", "label": 2}
+{"premise": "Gardens are located outside during the day and will receive sunlight.", "hypothesis": "The plants in the gardens will receive the most sunlight in summer to grow during the day.", "label": 1}
+{"premise": "Elephant and baby animals become adult animals.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "A wildfire causes a tree to catch fire.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "Sunlight is a kind of energy.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Sugar is soluble in water. \"", "hypothesis": "Sugar cubes will dissolve in water when they are combined.", "label": 2}
+{"premise": "The asteroid belt is the set of objects containing the largest concentration of asteroids between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "Eating / taking in food is used to get nutrients / energy by animals and leafy vegetables are used to getting minerals by living things.", "hypothesis": "Leafy vegetables are a good source of minerals.", "label": 2}
+{"premise": "If the amount of fish eaten decreases in amount then some animals that eat fish will lack food to survive.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "Different solids are combined to maintain their physical properties.", "hypothesis": "Different solids that are combined will become a mixture.", "label": 1}
+{"premise": "When a person moves, chemical energy is transferred to mechanical energy and then into shivers.", "hypothesis": "When a person shivers, chemical energy is converted to mechanical energy.", "label": 2}
+{"premise": "Preventing tree roots from overgrazing decreases the amount of soil erosion caused by the roots of the plant.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "If a pot is exposed to the air, then the heat will transfer to the handle and cause the handle to become hot.", "hypothesis": "If a pot become hot, then the handle of the pot will become hot.", "label": 1}
+{"premise": "Lichens and soil are similar to being produced by breaking down rocks.", "hypothesis": "Lichens breaking down rocks can form soil.", "label": 1}
+{"premise": "Some animals that eat fish will starve.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "Class is used to describe the sedimentary / metamorphic / igneous characteristics of a rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "Rock class is a property of the rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "A comet orbit is elliptical and occurs once per 1000 years.", "hypothesis": "Comets are the kind of celestial object that has a highly elliptical orbit and has a period of over 1000 years.", "label": 1}
+{"premise": "Bone is rigid and can be used for protection.", "hypothesis": "Protection and support are jobs of the skeletal system.", "label": 1}
+{"premise": "Salt and water combined together will form a mixture.", "hypothesis": "Salt water is a kind of mixture.", "label": 2}
+{"premise": "Water absorbing solar energy in the water cycle causes objects to heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "Students classify leaves by their shape.", "hypothesis": "Students are classifying the leaves by their properties.", "label": 1}
+{"premise": "Electrons take up the largest amount of mass and volume in an atom but have the least volume.", "hypothesis": "Electrons are part of an atom that take up the majority of the volume in an atom.", "label": 1}
+{"premise": "Brass is made of two or more metals.", "hypothesis": "Brass is a kind of alloy.", "label": 1}
+{"premise": "The moon orbits the earth and is a new moon.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Electrons take up the largest amount of mass and volume in an atom and subunits take up less volume.", "hypothesis": "Electrons are part of an atom that take up the majority of the volume in an atom.", "label": 1}
+{"premise": "Digestion of food occurs in the small intestine.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 1}
+{"premise": "The sun rising / setting is part of one day.", "hypothesis": "The sun rising and setting is the event that occurs once per day.", "label": 2}
+{"premise": "Mercury has a year of 88 earth days and orbits the sun.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 1}
+{"premise": "The asteroid belt is the system containing the largest concentration of asteroids in the solar system between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "Earth rotating causes cycles of day and night on earth.", "hypothesis": "Earth rotating on its axis causes the cycle of day and night on earth.", "label": 1}
+{"premise": "The person in a dark room is not seeing.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Earthworms can form tunnels in soil and provide nutrients for plants.", "hypothesis": "Earthworms creating tunnels has a positive impact on the growth of plant roots by loosening the soil.", "label": 1}
+{"premise": "A lamp converts electrical energy into light and heat energy and sunlight energy.", "hypothesis": "A lamp converts electrical energy to light and heat energy.", "label": 2}
+{"premise": "Water absorbing sunlight produces heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "A food preference is a kind of hereditary information that is passed from parent to offspring by genetics / dna.", "hypothesis": "Food preference is not inherited from parents.", "label": 1}
+{"premise": "Cell division often causes the growth of adult elephants.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Cell division causes the baby elephant to grow into adult elephant.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "The kuiper belt is icy in color.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "An animal is a consumer in the food chain process.", "hypothesis": "In the food chain process a human has the role of consumer.", "label": 1}
+{"premise": "Wildfire is used to produce heat in a forest.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "Objects are made of means made of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "Sugar dissolving in water will form a solution.", "hypothesis": "Sugar water is a mixture.", "label": 1}
+{"premise": "A fish is a kind of scaled animal that uses their scales to protect themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "The kuiper belt is freezing.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "If the amount of food that an animal eats decreases in amount then that animal will lack food.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "Decomposition is when a bacterium breaks down dead organisms and stores nutrients.", "hypothesis": "Bacteria causes soil to become more fertile by breaking down dead plants and animals.", "label": 1}
+{"premise": "Eagles sometimes eat herbivores.", "hypothesis": "An eagle is a kind of carnivore.", "label": 1}
+{"premise": "The dark half of the moon faces the earth and the solar eclipse is when the moon blocks the earth from the sun.", "hypothesis": "A solar eclipse could only happen during the new moon.", "label": 1}
+{"premise": "The person in the dark room is looking out a window.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Trees can prevent soil erosion by controlling the roots that anchor plants into the soil.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "Composition is used to describe the rock.", "hypothesis": "Rocks can be classified as sedimentary, metamorphic, or igneous based on how the rock was formed.", "label": 1}
+{"premise": "The person outside in the day is looking into the dark room.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "A heat engine converts heat energy into mechanical energy that can cause objects to move.", "hypothesis": "The mechanical energy converted by the car engine causes the car to move.", "label": 1}
+{"premise": "A new moon will occur on june 30 when the moon orbits the planet earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Moving away from the source increases the distance between the source and the light source.", "hypothesis": "As the distance of the star to earth decreases, the star will appear brighter.", "label": 1}
+{"premise": "Jumping to catch a ball is a learned characteristic.", "hypothesis": "Jumping to catch a ball is a kind of learned characteristic.", "label": 2}
+{"premise": "Element nitrogen makes up most of the earth's atmosphere.", "hypothesis": "Element nitrogen makes up most of the earth's atmosphere.", "label": 2}
+{"premise": "Hail and water are different substances.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "A centimeter is used to describe an object.", "hypothesis": "Centimeter is a metric unit used to describe the length of an object.", "label": 1}
+{"premise": "A graduated cylinder can be used to record the volume of water.", "hypothesis": "A graduated cylinder can be used to measure the volume of liquid water and solid water ice.", "label": 1}
+{"premise": "Water in ice form is hailing.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Canyons are formed by flowing rivers through erosion and deposition and pouring water onto soil over long periods of time.", "hypothesis": "Pouring water onto soil is similar to the erosion on the canyon formation.", "label": 2}
+{"premise": "Food can be used for healing by providing energy.", "hypothesis": "Energy for healing comes from food.", "label": 2}
+{"premise": "An earthquake can change earth's surface by shaking the ground.", "hypothesis": "An earthquake changes earth's surface quickly.", "label": 1}
+{"premise": "December has the least sunlight in the northern hemisphere during the winter.", "hypothesis": "New york state has the least sunlight during december.", "label": 1}
+{"premise": "Scales are used for protection by some animals.", "hypothesis": "Scales are used for protection by fish.", "label": 1}
+{"premise": "Mercury orbits the sun in 88 earth days in the solar system.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "A meter stick can be used to describe the height of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "An automobile has a negative impact on the air.", "hypothesis": "Many automobiles increase the pollution in the air.", "label": 1}
+{"premise": "Elements that are formed by rocks weathering are sediment rocks.", "hypothesis": "Sedimentary rocks are a kind of structure that is formed by materials being deposited then buried then cemented together.", "label": 1}
+{"premise": "The muscular system contains muscles used for pulling.", "hypothesis": "The muscular system pulls bones to move the bones.", "label": 1}
+{"premise": "Fossil fuel is a component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}
+{"premise": "Leaves are green objects.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "Mitosis produces cells that are copy of the parent cell and meiosis produces cells different from the parent cells.", "hypothesis": "Mitosis produces cells that are identical to the parent cell and meiosis produces cells that are different from the parent cell.", "label": 2}
+{"premise": "Both samples have the same density.", "hypothesis": "Two samples will have the same density.", "label": 2}
+{"premise": "The earth completes a complete revolution around its sun in 1 planetary year.", "hypothesis": "A complete revolution of earth around the sun takes an earth year.", "label": 2}
+{"premise": "The tundra is an area that is cold in temperature.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 2}
+{"premise": "Energy transformation requires geothermal energy to renew electric energy over and over again.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 1}
+{"premise": "The tundra is a very cold environment.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 2}
+{"premise": "A balance is required by sand to determine the mass of sand.", "hypothesis": "Determining the mass of the sand requires using a balance to measure the mass of the sand.", "label": 2}
+{"premise": "A hand lens can be used to see insects by making insects appear bigger.", "hypothesis": "A hand lens can help seeing the insect by magnifying the insect.", "label": -1}
+{"premise": "If a plant is planted / growing somewhere then that plant is located there because only plant cells have chloroplast.", "hypothesis": "Chloroplast can only be found in a plant cell.", "label": 2}
+{"premise": "The nervous system sends messages in the body to the brain by seeing.", "hypothesis": "Nerves carry messages from the eyes to the brain.", "label": 1}
+{"premise": "The candle left out in the open will last longer.", "hypothesis": "The candle left out in the open stay burning the longest.", "label": 2}
+{"premise": "A reflector can be used to reflect light toward the eye.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 1}
+{"premise": "Water vapor is in the gas state, called water vapor, for temperatures above 120 c.", "hypothesis": "The water will be water vapor when the temperature is 120 c.", "label": 1}
+{"premise": "Hunting is a kind of learned behavior.", "hypothesis": "Hunting is not an instinctive behavior.", "label": 1}
+{"premise": "Cool means cold in the tundra environment.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 1}
+{"premise": "Noise cannot travel in a vacuum.", "hypothesis": "Sound cannot travel through a vacuum.", "label": 2}
+{"premise": "Glass / objects made of glass have refraction of light that can cause a prism to split light into different colors.", "hypothesis": "A prism refracts light and splits light into lights of different color.", "label": 1}
+{"premise": "Hunting is a kind of learned behavior.", "hypothesis": "Hunting is not an instinctive behavior.", "label": 1}
+{"premise": "Renewable resources are available for many years and have a positive impact on the things that need those resources.", "hypothesis": "An advantage of renewable resources is they are often available for many years.", "label": 1}
+{"premise": "Hunting is a kind of conditioned behavior.", "hypothesis": "Hunting is not an instinctive behavior.", "label": 1}
+{"premise": "An anemometer can be used to measure wind speed.", "hypothesis": "An anemometer is an instrument used to measure wind speed.", "label": 2}
+{"premise": "The tundra is colder than other areas.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 1}
+{"premise": "Acid rain changing the ph of water can cause tadpoles to die.", "hypothesis": "If acid rain changes the ph of water then tadpoles may by unable to survive.", "label": 2}
+{"premise": "Ice and rocks are solids made of aluminum.", "hypothesis": "Ice, a rock, and a piece of aluminum are all solids.", "label": 1}
+{"premise": "Producing renewable electric energy requires geothermal energy and solar energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 2}
+{"premise": "A hand dryer converts heat energy into electricity.", "hypothesis": "A hand dryer converts electrical energy into heat energy.", "label": 1}
+{"premise": "A balance can be used to determine the mass of sand.", "hypothesis": "Determining the mass of the sand requires using a balance to measure the mass of the sand.", "label": 1}
+{"premise": "A green leaf will scatter more light than a leaf that is green in color.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "A refrigerator can be used to keep food fresh for a long period of time.", "hypothesis": "Refrigerator is the invention that can keep food fresh for a long period of time.", "label": 2}
+{"premise": "The moon is less bright than the sun and can cause harm to the eyes.", "hypothesis": "Looking at the moon has less of a negative impact on the eyes.", "label": 1}
+{"premise": "Gravity pulls the ball towards planets.", "hypothesis": "Gravity is the force that pulls the ball towards the planet.", "label": 2}
+{"premise": "Dryness can hold a lot of water.", "hypothesis": "Storing water is an adaptation to a dry environment.", "label": 1}
+{"premise": "A lit candle will burn longer if it is left out in the open.", "hypothesis": "The candle left out in the open stay burning the longest.", "label": 2}
+{"premise": "Producing renewable electric energy requires renewing geothermal energy and solar energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 2}
+{"premise": "When light hits a blue block, that light bounces off that blue block.", "hypothesis": "The blue block reflects blue light.", "label": 1}
+{"premise": "A balance is used for determining the mass of sand.", "hypothesis": "Determining the mass of the sand requires using a balance to measure the mass of the sand.", "label": 1}
+{"premise": "A hand dryer converts heat energy to electricity.", "hypothesis": "A hand dryer converts electrical energy into heat energy.", "label": 1}
+{"premise": "Gravity pulls the ball towards the planet.", "hypothesis": "Gravity is the force that pulls the ball towards the planet.", "label": 2}
+{"premise": "A prokaryotic cell lacks a nucleus.", "hypothesis": "A nucleus cannot be found in prokaryotic cells.", "label": 2}
+{"premise": "Objects in the tundra environment are a part of an environment that is cold in temperature.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 2}
+{"premise": "Glacial movement can cause scratches in sedimentary rock and bedrock to appear smooth.", "hypothesis": "Glacial movement often causes bedrock to appear polished and leaves scratches in rocks.", "label": 2}
+{"premise": "If an object reflects more light toward the eye then that object is easier to see.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 2}
+{"premise": "A periodic table of elements is the scientific model that can be used to describe the properties of an element and to predict the properties.", "hypothesis": "The periodic table of elements is the model that can be used to determine the properties of elements.", "label": 2}
+{"premise": "If an object reflects more light toward the eye then that object can be seen.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 2}
+{"premise": "The candle left out in the open will burn longer and be available for longer.", "hypothesis": "The candle left out in the open stay burning the longest.", "label": 1}
+{"premise": "The respiratory system transports oxygen to the circulatory system.", "hypothesis": "The respiratory system and circulatory system are similar because they bring oxygen to the body.", "label": 1}
+{"premise": "Two samples have the same density.", "hypothesis": "Two samples will have the same density.", "label": 2}
+{"premise": "A hand lens can be used to see insects by making them appear bigger.", "hypothesis": "A hand lens can help seeing the insect by magnifying the insect.", "label": 2}
+{"premise": "Grease can have a positive impact on the wheels moving on other surfaces and the friction among gears.", "hypothesis": "Grease is used to decrease the friction on the wheels and gears moving on other surfaces.", "label": 1}
+{"premise": "If a blue block reflects a light of a certain color, then the blue block appears to be that color.", "hypothesis": "The blue block reflects blue light.", "label": 1}
+{"premise": "A refrigerator can be used for keeping warm food and fresh food for a long period of time.", "hypothesis": "Refrigerator is the invention that can keep food fresh for a long period of time.", "label": 2}
+{"premise": "Different species of leaves are green in color.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "Aluminum atom is the smallest particle that can be classified as aluminum.", "hypothesis": "Aluminum atom is the smallest particle that has the properties of aluminum.", "label": 1}
+{"premise": "The tundra is cooler than other places.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 1}
+{"premise": "If an object reflects more light toward the eye then that object is more easily seen.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 2}
+{"premise": "If an object reflects more light toward the eye then that object is more easily seen.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 2}
+{"premise": "Reflection is when light hits a blue block.", "hypothesis": "The blue block reflects blue light.", "label": 1}
+{"premise": "The respiratory system brings oxygen to the circulatory system.", "hypothesis": "The respiratory system and circulatory system are similar because they bring oxygen to the body.", "label": 1}
+{"premise": "The rock will break apart by water expanding in the crack when it freezes.", "hypothesis": "If water freezes in the crack of the rock, then the rock will break apart by water expanding when it freezes.", "label": 2}
+{"premise": "Hunting is a kind of learned behaviors.", "hypothesis": "Hunting is not an instinctive behavior.", "label": 2}
+{"premise": "Mitosis produces cells that are copy of the parent cell and meiosis produces cells with different characteristics from the parent cells.", "hypothesis": "Mitosis produces cells that are identical to the parent cell and meiosis produces cells that are different from the parent cell.", "label": 2}
+{"premise": "Renewable resources are available for many years and have an advantage on the things that need those resources.", "hypothesis": "An advantage of renewable resources is they are often available for many years.", "label": 1}
+{"premise": "Cool means that the tundra is cold in temperature.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 1}
+{"premise": "A leaf is green in color and will scatter more light.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "Ice fracturing is when water freezes and ice wedging causes rocks to crack by expanding in openings.", "hypothesis": "The ice formed by water freezing causes rocks to crack by expanding in openings.", "label": 2}
+{"premise": "The respiratory system and circulatory system bring oxygen to the body through parts of the body.", "hypothesis": "The respiratory system and circulatory system are similar because they bring oxygen to the body.", "label": 2}
+{"premise": "Producing renewable electric energy requires renewable resources such as geothermal energy and solar energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 2}
+{"premise": "Energy transformation requires geothermal energy to renew electric energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 1}
+{"premise": "Refraction of light can split the rainbow into different colors.", "hypothesis": "A rainbow is formed by refraction of light by separating light / splitting light into all different colors.", "label": 2}
+{"premise": "Sound and no matter can travel in the vacuum.", "hypothesis": "Sound cannot travel through a vacuum.", "label": 2}
+{"premise": "A leaf is green in color and a leaf is brown in color.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "Algae can enter a lake when runoff enters it.", "hypothesis": "Runoff entering a lake affects that lake by causing algae to grow in it.", "label": 1}
+{"premise": "A refrigerator can be used for keeping food fresh for a long period of time.", "hypothesis": "Refrigerator is the invention that can keep food fresh for a long period of time.", "label": 2}
+{"premise": "A student combined two substances together.", "hypothesis": "The student made a mixture by combining two substances together.", "label": 1}
+{"premise": "Glass / objects made of glass have a property of light that can cause a prism to split light into different colors.", "hypothesis": "A prism refracts light and splits light into lights of different color.", "label": 1}
+{"premise": "A human cell takes in energy.", "hypothesis": "All human cells take in energy.", "label": 2}
+{"premise": "Producing renewable electric energy requires geothermal energy to be renewed.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 2}
+{"premise": "If an object reflects more light toward the eye then that object can be seen easier.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 2}
+{"premise": "Geothermal energy can be used to renew electric energy over and over again.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 1}
+{"premise": "The rock will break apart by water expanding when it freezes in the crack.", "hypothesis": "If water freezes in the crack of the rock, then the rock will break apart by water expanding when it freezes.", "label": 2}
+{"premise": "A refrigerator can be used for staying food fresh for a long period of time.", "hypothesis": "Refrigerator is the invention that can keep food fresh for a long period of time.", "label": 2}
+{"premise": "Structural geologists and paleontologists can use fossils in rock formations to study the history of organisms and environments on earth.", "hypothesis": "Structural geologists and paleontologists both study the history and processes of earth.", "label": 1}
+{"premise": "Producing renewable electric energy requires geothermal energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 1}
+{"premise": "Ocean animals used to live in the grand canyon.", "hypothesis": "The grand canyon used to be covered by oceans in the past.", "label": 1}
+{"premise": "Structural geologists and paleontologists study fossils in rock formation to study the history of rocks and environments on earth.", "hypothesis": "Structural geologists and paleontologists both study the history and processes of earth.", "label": 1}
+{"premise": "As dryness increases in an environment, storing water can have a positive impact on a living thing's survival.", "hypothesis": "Storing water is an adaptation to a dry environment.", "label": 1}
+{"premise": "The atom of aluminum is the smallest particle that can be classified as aluminum.", "hypothesis": "Aluminum atom is the smallest particle that has the properties of aluminum.", "label": 2}
+{"premise": "The moon is less bright than the sun and can cause harm to the eyes by looking directly at an eclipse of the sun.", "hypothesis": "Looking at the moon has less of a negative impact on the eyes.", "label": 1}
+{"premise": "If an object reflects more light toward the eye then that object can be seen more easily.", "hypothesis": "If the reflector reflects the light toward the eye, then the reflector can be seen.", "label": 1}
+{"premise": "Producing renewable electric energy requires geothermal energy.", "hypothesis": "Geothermal energy has the potential to produce renewable electric energy.", "label": 1}
+{"premise": "The earth will complete a complete revolution around its star and a complete orbit around the sun in one planetary year.", "hypothesis": "A complete revolution of earth around the sun takes an earth year.", "label": 1}
+{"premise": "Renewable resources are available for many years and have advantage on the things that need those resources.", "hypothesis": "An advantage of renewable resources is they are often available for many years.", "label": 2}
+{"premise": "Refraction of light by separating light energy into all different colors forms a rainbow.", "hypothesis": "A rainbow is formed by refraction of light by separating light / splitting light into all different colors.", "label": 2}
+{"premise": "A leaf is a green object.", "hypothesis": "Leaves reflect green color.", "label": 1}
+{"premise": "Water is in the gas state, called water vapor, above 120 c.", "hypothesis": "The water will be water vapor when the temperature is 120 c.", "label": 1}
+{"premise": "A balance can be used to determine the mass of sand.", "hypothesis": "Determining the mass of the sand requires using a balance to measure the mass of the sand.", "label": 1}
+{"premise": "Refraction of light can split the rainbow into all different colors.", "hypothesis": "A rainbow is formed by refraction of light by separating light / splitting light into all different colors.", "label": 1}
+{"premise": "The tundra environment is colder than other areas.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 2}
+{"premise": "The circulatory system transports oxygen from the lungs to the rest of the body.", "hypothesis": "The respiratory system and circulatory system are similar because they bring oxygen to the body.", "label": 1}
+{"premise": "Algae can affect a lake by causing runoff into it.", "hypothesis": "Runoff entering a lake affects that lake by causing algae to grow in it.", "label": 1}
+{"premise": "A hand lens can be used to see an insect by making it appear bigger.", "hypothesis": "A hand lens can help seeing the insect by magnifying the insect.", "label": 2}
+{"premise": "Hunting is a kind of conditioned behavior.", "hypothesis": "Hunting is not an instinctive behavior.", "label": 1}
+{"premise": "Water expands in the crack in the rock and the rock will break apart.", "hypothesis": "If water freezes in the crack of the rock, then the rock will break apart by water expanding when it freezes.", "label": 1}
+{"premise": "The tundra environment is cold in temperature.", "hypothesis": "A tundra is a kind of area that is usually very cold in temperature.", "label": 2}
+{"premise": "The nervous system sends messages in the body to the brain by looking.", "hypothesis": "Nerves carry messages from the eyes to the brain.", "label": 1}
+{"premise": "The nervous system sends electrical signals in the body to the brain by looking.", "hypothesis": "Nerves carry messages from the eyes to the brain.", "label": 1}
+{"premise": "Grease can decrease the friction of a wheel's surfaces and a gear's surfaces.", "hypothesis": "Grease is used to decrease the friction on the wheels and gears moving on other surfaces.", "label": 2}
+{"premise": "Refraction of light can split the rainbow into all different colors in visible light.", "hypothesis": "A rainbow is formed by refraction of light by separating light / splitting light into all different colors.", "label": 1}
+{"premise": "A refrigerator can be used for keeping warm food for a long period of time and fresh food for an extended period of period of stay.", "hypothesis": "Refrigerator is the invention that can keep food fresh for a long period of time.", "label": 1}

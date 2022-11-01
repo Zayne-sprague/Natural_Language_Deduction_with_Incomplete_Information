@@ -1,0 +1,45 @@
+{"premise": "A new moon will occur on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The nucleus of an atom has more mass than an electron.", "hypothesis": "Most of the mass of an atom is located in the nucleus.", "label": 1}
+{"premise": "A wire is made of copper material.", "hypothesis": "Copper is a material that is an electrical conductor.", "label": 1}
+{"premise": "A new moon will happen on june 30 when the moon orbits the earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Mercury orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "Mercury is a planet in the solar system that orbits the sun in 88 earth days.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "Information in an organism's chromosomes causes an inherited characteristic to be passed from parent to offspring by dna.", "hypothesis": "Children usually resemble parents.", "label": 1}
+{"premise": "Objects are made up of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "A plant is a kind of organism in the biological kingdom plantae.", "hypothesis": "That organism is a part of the biological kingdom plantae.", "label": 1}
+{"premise": "Andy lives in August during the winter in the southern hemisphere.", "hypothesis": "Andy will experience winter in southern hemisphere in august.", "label": 1}
+{"premise": "Light absorbs solar energy and transfers solar energy to something else.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Fossil fuel is the component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}
+{"premise": "A rheumatoid arthritis will happen first before other diseases affect the body's tissues.", "hypothesis": "The immune system becomes disordered first before rheumatoid arthritis occurs.", "label": 1}
+{"premise": "Gardens are located outside during the day and will receive sunlight.", "hypothesis": "The plants in the gardens will receive the most sunlight in summer to grow during the day.", "label": 1}
+{"premise": "Sunlight is a kind of energy.", "hypothesis": "Chlorophyll is used for absorbing light energy by plants.", "label": 1}
+{"premise": "Different solids are combined to maintain their physical properties.", "hypothesis": "Different solids that are combined will become a mixture.", "label": 1}
+{"premise": "If a pot is exposed to the air, then the heat will transfer to the handle and cause the handle to become hot.", "hypothesis": "If a pot become hot, then the handle of the pot will become hot.", "label": 1}
+{"premise": "Lichens and soil are similar to being produced by breaking down rocks.", "hypothesis": "Lichens breaking down rocks can form soil.", "label": 1}
+{"premise": "Bone is rigid and can be used for protection.", "hypothesis": "Protection and support are jobs of the skeletal system.", "label": 1}
+{"premise": "Water absorbing solar energy in the water cycle causes objects to heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "Students classify leaves by their shape.", "hypothesis": "Students are classifying the leaves by their properties.", "label": 1}
+{"premise": "The moon orbits the earth and is a new moon.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "The sun rising / setting is part of one day.", "hypothesis": "The sun rising and setting is the event that occurs once per day.", "label": 2}
+{"premise": "Mercury has a year of 88 earth days and orbits the sun.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 1}
+{"premise": "Earth rotating causes cycles of day and night on earth.", "hypothesis": "Earth rotating on its axis causes the cycle of day and night on earth.", "label": 1}
+{"premise": "Earthworms can form tunnels in soil and provide nutrients for plants.", "hypothesis": "Earthworms creating tunnels has a positive impact on the growth of plant roots by loosening the soil.", "label": 1}
+{"premise": "A lamp converts electrical energy into light and heat energy and sunlight energy.", "hypothesis": "A lamp converts electrical energy to light and heat energy.", "label": 2}
+{"premise": "Water absorbing sunlight produces heat.", "hypothesis": "In the water cycle the sun has the role of causing evaporation.", "label": 1}
+{"premise": "A food preference is a kind of hereditary information that is passed from parent to offspring by genetics / dna.", "hypothesis": "Food preference is not inherited from parents.", "label": 1}
+{"premise": "The kuiper belt is icy in color.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "An animal is a consumer in the food chain process.", "hypothesis": "In the food chain process a human has the role of consumer.", "label": 1}
+{"premise": "Objects are made of means made of matter and have mass.", "hypothesis": "All objects have mass.", "label": 2}
+{"premise": "Sugar dissolving in water will form a solution.", "hypothesis": "Sugar water is a mixture.", "label": 1}
+{"premise": "The kuiper belt is freezing.", "hypothesis": "Objects in kuiper belt are icy.", "label": 1}
+{"premise": "Decomposition is when a bacterium breaks down dead organisms and stores nutrients.", "hypothesis": "Bacteria causes soil to become more fertile by breaking down dead plants and animals.", "label": 1}
+{"premise": "Eagles sometimes eat herbivores.", "hypothesis": "An eagle is a kind of carnivore.", "label": 1}
+{"premise": "The dark half of the moon faces the earth and the solar eclipse is when the moon blocks the earth from the sun.", "hypothesis": "A solar eclipse could only happen during the new moon.", "label": 1}
+{"premise": "A new moon will occur on june 30 when the moon orbits the planet earth.", "hypothesis": "The next new moon will occur on june 30.", "label": 1}
+{"premise": "Moving away from the source increases the distance between the source and the light source.", "hypothesis": "As the distance of the star to earth decreases, the star will appear brighter.", "label": 1}
+{"premise": "Element nitrogen makes up most of the earth's atmosphere.", "hypothesis": "Element nitrogen makes up most of the earth's atmosphere.", "label": 2}
+{"premise": "Food can be used for healing by providing energy.", "hypothesis": "Energy for healing comes from food.", "label": 2}
+{"premise": "An earthquake can change earth's surface by shaking the ground.", "hypothesis": "An earthquake changes earth's surface quickly.", "label": 1}
+{"premise": "Mercury orbits the sun in 88 earth days in the solar system.", "hypothesis": "A complete orbit of mercury around the sun takes around 88 earth days.", "label": 2}
+{"premise": "The muscular system contains muscles used for pulling.", "hypothesis": "The muscular system pulls bones to move the bones.", "label": 1}
+{"premise": "Fossil fuel is a component of chemical energy.", "hypothesis": "Chemical energy can be found in fossil fuels.", "label": 1}

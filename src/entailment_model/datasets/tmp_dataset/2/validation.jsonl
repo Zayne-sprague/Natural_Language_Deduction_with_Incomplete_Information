@@ -1,0 +1,52 @@
+{"premise": "The small intestine is part of the digestive system that absorbs nutrients from food into itself by eating.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 2}
+{"premise": "A fish is a kind of scaled animal that uses their scales to defend themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "A leaf photosynthesizing makes food for the plant by converting carbon dioxide, water, and sunlight into carbohydrates.", "hypothesis": "A leaf makes food for the plant by converting sunlight into carbohydrates.", "label": 2}
+{"premise": "The nucleus of an atom is surrounded by almost empty space.", "hypothesis": "An atom has a positive core surrounded by mostly empty space.", "label": 1}
+{"premise": "A meter stick can be used to record the height and the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 2}
+{"premise": "A meter stick can be used to record the position of the door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Transferring heat from an egg will cause the egg to decrease in temperature.", "hypothesis": "The water will increase in temperature and the egg will decrease in temperature.", "label": 1}
+{"premise": "A meter stick can be used to record the length of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "Particles in a liquid are slower than particles in a gas to flow past each other.", "hypothesis": "Particles in a liquid are closer together and slower than particles in a gas.", "label": 1}
+{"premise": "The heart pumping blood to the rest of the body is an example of a heart working together with blood vessels, kidneys, and bladder.", "hypothesis": "The heart, blood vessels, kidneys, and bladder working together makes them an organ system.", "label": 1}
+{"premise": "Earth rotating on its axis causes cycles of day and night once per day.", "hypothesis": "The earth rotating on its tilted axis causes the cycles of day and night on earth.", "label": 1}
+{"premise": "The excretory system removes waste from the body.", "hypothesis": "The excretory system removes waste from the body.", "label": 2}
+{"premise": "Water is in the solid state, and hail is a kind of ice.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Kidney is a vehicle for removing bodily waste / cell waste / byproducts from the body.", "hypothesis": "The kidneys help remove waste from the body.", "label": 2}
+{"premise": "Elephant and baby animals become adult animals.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "A wildfire causes a tree to catch fire.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "Sugar is soluble in water. \"", "hypothesis": "Sugar cubes will dissolve in water when they are combined.", "label": 2}
+{"premise": "The asteroid belt is the set of objects containing the largest concentration of asteroids between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "Eating / taking in food is used to get nutrients / energy by animals and leafy vegetables are used to getting minerals by living things.", "hypothesis": "Leafy vegetables are a good source of minerals.", "label": 2}
+{"premise": "If the amount of fish eaten decreases in amount then some animals that eat fish will lack food to survive.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "When a person moves, chemical energy is transferred to mechanical energy and then into shivers.", "hypothesis": "When a person shivers, chemical energy is converted to mechanical energy.", "label": 2}
+{"premise": "Preventing tree roots from overgrazing decreases the amount of soil erosion caused by the roots of the plant.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "Some animals that eat fish will starve.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "Class is used to describe the sedimentary / metamorphic / igneous characteristics of a rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "Rock class is a property of the rock.", "hypothesis": "Rocks are classified as igneous, sedimentary, or metamorphic based on how they are formed.", "label": 1}
+{"premise": "A comet orbit is elliptical and occurs once per 1000 years.", "hypothesis": "Comets are the kind of celestial object that has a highly elliptical orbit and has a period of over 1000 years.", "label": 1}
+{"premise": "Salt and water combined together will form a mixture.", "hypothesis": "Salt water is a kind of mixture.", "label": 2}
+{"premise": "Brass is made of two or more metals.", "hypothesis": "Brass is a kind of alloy.", "label": 1}
+{"premise": "Digestion of food occurs in the small intestine.", "hypothesis": "Nutrients are absorbed from food in the small intestine.", "label": 1}
+{"premise": "The asteroid belt is the system containing the largest concentration of asteroids in the solar system between mars and jupiter.", "hypothesis": "The asteroid belt that contains the largest concentration of asteroids is located between mars and jupiter.", "label": 2}
+{"premise": "The person in a dark room is not seeing.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Cell division often causes the growth of adult elephants.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Cell division causes the baby elephant to grow into adult elephant.", "hypothesis": "The number of cells in the adult elephant will be more than the number of cells in the baby elephant.", "label": 1}
+{"premise": "Wildfire is used to produce heat in a forest.", "hypothesis": "A jack pine tree will disperse seeds after a wildfire.", "label": 1}
+{"premise": "A fish is a kind of scaled animal that uses their scales to protect themselves.", "hypothesis": "Scales are used for protection by fish.", "label": 2}
+{"premise": "If the amount of food that an animal eats decreases in amount then that animal will lack food.", "hypothesis": "Starvation of the animals that eat fish can endanger those animals.", "label": 1}
+{"premise": "The person in the dark room is looking out a window.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "Trees can prevent soil erosion by controlling the roots that anchor plants into the soil.", "hypothesis": "Planting trees prevents soil from washing away.", "label": 1}
+{"premise": "Composition is used to describe the rock.", "hypothesis": "Rocks can be classified as sedimentary, metamorphic, or igneous based on how the rock was formed.", "label": 1}
+{"premise": "The person outside in the day is looking into the dark room.", "hypothesis": "The person outside cannot see the person in the dark room.", "label": 1}
+{"premise": "A heat engine converts heat energy into mechanical energy that can cause objects to move.", "hypothesis": "The mechanical energy converted by the car engine causes the car to move.", "label": 1}
+{"premise": "Jumping to catch a ball is a learned characteristic.", "hypothesis": "Jumping to catch a ball is a kind of learned characteristic.", "label": 2}
+{"premise": "Hail and water are different substances.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "A centimeter is used to describe an object.", "hypothesis": "Centimeter is a metric unit used to describe the length of an object.", "label": 1}
+{"premise": "A graduated cylinder can be used to record the volume of water.", "hypothesis": "A graduated cylinder can be used to measure the volume of liquid water and solid water ice.", "label": 1}
+{"premise": "Water in ice form is hailing.", "hypothesis": "Hail is water in solid ice.", "label": 1}
+{"premise": "Canyons are formed by flowing rivers through erosion and deposition and pouring water onto soil over long periods of time.", "hypothesis": "Pouring water onto soil is similar to the erosion on the canyon formation.", "label": 2}
+{"premise": "December has the least sunlight in the northern hemisphere during the winter.", "hypothesis": "New york state has the least sunlight during december.", "label": 1}
+{"premise": "Scales are used for protection by some animals.", "hypothesis": "Scales are used for protection by fish.", "label": 1}
+{"premise": "A meter stick can be used to describe the height of a door.", "hypothesis": "A meter stick can be used to measure the height of the door.", "label": 1}
+{"premise": "An automobile has a negative impact on the air.", "hypothesis": "Many automobiles increase the pollution in the air.", "label": 1}
+{"premise": "Elements that are formed by rocks weathering are sediment rocks.", "hypothesis": "Sedimentary rocks are a kind of structure that is formed by materials being deposited then buried then cemented together.", "label": 1}

@@ -1,0 +1,51 @@
+{"premise": "Atom is a particle that is made of a core core surrounded by electrons and a nucleus surrounded by electron.", "hypothesis": "An atom is made of a core of protons and neutrons surrounded by electrons.", "label": 1}
+{"premise": "Someone looking into a mirror that reflects light is able to be seen.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "Looking at light is an example of reflection.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "Burning wood converts chemical energy into thermal energy.", "hypothesis": "The chemical energy in wood is transformed into thermal energy.", "label": 2}
+{"premise": "A physicist studies the mechanical energy required for a simple machine to function.", "hypothesis": "A physicist is the scientist who study the relationship between simple machines and energy.", "label": 1}
+{"premise": "A flood can cause the resources used by organisms in a body of water to increase.", "hypothesis": "A flood may cause the population of salamander to increase in an environment.", "label": 1}
+{"premise": "To improve means to have a positive impact on exercise.", "hypothesis": "Exercise can help a human maintain good health.", "label": 1}
+{"premise": "The student is studying the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "Longitudinal waves cause the object to move in the same direction as the wave.", "hypothesis": "Compression waves cause object to move in the same direction of the wave.", "label": 1}
+{"premise": "The formation of rocks requires quartz and feldspar.", "hypothesis": "Sometimes rocks are formed by quartz and feldspar mixed together.", "label": 1}
+{"premise": "Sedimentary deposits contain organic material made of carbon, hydrogen, and oxygen.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "To be used for exercise can help to maintain good health.", "hypothesis": "Exercise can help a human maintain good health.", "label": 1}
+{"premise": "Combining baking soda with vinegar is a kind of process.", "hypothesis": "Combining baking soda and vinegar can cause chemical reactions.", "label": 1}
+{"premise": "Infection can cause throat to swell.", "hypothesis": "The swelling of throat tissues is a kind of condition that can result from infection.", "label": 2}
+{"premise": "If ice transfers energy to something else then that something else will melt and heat and melt above its melting point.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "Electrons are the smallest particle in an atom that has a negative electric charge.", "hypothesis": "The smallest, negatively-charged particles in the atom orbit the nucleus of the atom.", "label": 1}
+{"premise": "Electron is the smallest particle in an atom that has a negative -1 electric charge.", "hypothesis": "The smallest, negatively-charged particles in the atom orbit the nucleus of the atom.", "label": 1}
+{"premise": "A student can study the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "Sierra nevada mountains can limit the water vapor reaching nevadas.", "hypothesis": "Sierra nevada mountains can limit the water vapor reaching nevada.", "label": 2}
+{"premise": "Lungs and skin are used to perform the function of breathing in birds and frogs.", "hypothesis": "The function of skin on frogs is similar to the function of lungs in birds.", "label": 2}
+{"premise": "Yard is an imperial unit used to describe the length of an object.", "hypothesis": "Meter is the metric unit that is the most similar to yard.", "label": 1}
+{"premise": "Melting is a kind of state change of matter.", "hypothesis": "Ice melting is a kind of physical change.", "label": 1}
+{"premise": "The vomiting reflex is used to interact with toxic material.", "hypothesis": "The main function of the vomiting reflex is to remove toxic material from the stomach before it is absorbed.", "label": 1}
+{"premise": "A robin is a kind of predator.", "hypothesis": "The robin is the predator and the cricket is the prey.", "label": 1}
+{"premise": "Objects in a mountain and in a body of water are part of two kinds of environment.", "hypothesis": "The environment has changed from a body of water to mountains.", "label": 1}
+{"premise": "The cell nucleus is part of the cell that regulates the cell structure.", "hypothesis": "The cell nucleus is part of the cell that controls many of the functions of the cell.", "label": 1}
+{"premise": "Gravity causes the moon to orbit the earth and the earth to have more mass than the moon.", "hypothesis": "Gravity causes the moon to orbit around the earth.", "label": 2}
+{"premise": "Claws are used to catch food by predators.", "hypothesis": "Claws are used by some birds to catch food.", "label": 1}
+{"premise": "The supply of solar energy will not change for a longer period of time than 10 years.", "hypothesis": "The supply of solar energy will not change over billions of years.", "label": 1}
+{"premise": "If heat is absorbed from ice then ice will cool.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "A larger power source will increase the strength of the electromaget.", "hypothesis": "A larger power source will increase the strength of the electromagnet.", "label": 2}
+{"premise": "The height of the alcohol in the tube will increase as the temperature of the liquid increases.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 2}
+{"premise": "Mitosis produces identical copies of the cell nucleus.", "hypothesis": "Mitosis is a source of two identical nuclei.", "label": 2}
+{"premise": "The alcohol in the tube will increase as the temperature of the liquid increases.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 1}
+{"premise": "If ice is exposed to the air, then the heat will transfer to the ice.", "hypothesis": "The block of ice will melt.", "label": 1}
+{"premise": "Recycling means reusing notebook paper many times.", "hypothesis": "Notebook paper can be recycled many times.", "label": 1}
+{"premise": "A sedimentary deposit contains high amounts of organic material.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "A robin can prey on a cricket.", "hypothesis": "The robin is the predator and the cricket is the prey.", "label": 2}
+{"premise": "The number of parts of something is an example of a property of something that is identical in value.", "hypothesis": "The atomic number of the atom will change.", "label": 1}
+{"premise": "A sedimentary deposit contains high amounts of carbon chains.", "hypothesis": "A sedimentary deposit formed from organic material includes high amounts of carbon.", "label": 1}
+{"premise": "If alcohol is heated, then the height of alcohol will increase.", "hypothesis": "The height of the alcohol liquid changes because alcohol is heated.", "label": 2}
+{"premise": "Someone looking into a mirror that reflects light is able to see.", "hypothesis": "Looking at an image in a mirror is an example of light being reflected by a mirror.", "label": 1}
+{"premise": "Oil will float on liquids that are more dense.", "hypothesis": "Oil will float on water.", "label": 1}
+{"premise": "Infection can cause the swelling of throat tissue.", "hypothesis": "The swelling of throat tissues is a kind of condition that can result from infection.", "label": 2}
+{"premise": "Meter is an imperial unit used to describe the length of an object.", "hypothesis": "Meter is the metric unit that is the most similar to yard.", "label": 1}
+{"premise": "The nucleus of an atom is surrounded by electrons.", "hypothesis": "An atom is made of a core of protons and neutrons surrounded by electrons.", "label": 1}
+{"premise": "Soil contains nutrients for plants to grow.", "hypothesis": "The type of soil may have the greatest impact on plant growth.", "label": 1}
+{"premise": "Heavy rains can change the earth's surface by depositing soil and sediment rich in nutrients on the surface in flood plains.", "hypothesis": "The soil deposited by a river in flood plains are rich in nutrients.", "label": 1}
+{"premise": "A reflecting telescope can be used to observe moons and satellites that orbit a planet.", "hypothesis": "A reflecting telescope can be used to observe the moons that orbit around jupiter.", "label": 1}
+{"premise": "A student observes the milky way galaxy.", "hypothesis": "The student observes the milky way galaxy at night.", "label": 1}
+{"premise": "A flood can cause the population of organisms in a body of water to decrease.", "hypothesis": "A flood may cause the population of salamander to increase in an environment.", "label": 1}
