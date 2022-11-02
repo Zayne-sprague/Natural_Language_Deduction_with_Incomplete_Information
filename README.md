@@ -5,6 +5,8 @@
 
 Generating premises in underspecified settings through abduction.
 
+https://arxiv.org/abs/2211.00614
+
 ## Overview
 
 This repository holds the code for the paper _Natural Language Deduction with Incomplete Information_
@@ -18,6 +20,12 @@ For examples on how to call our Step Models, Heuristics, etc. check `{PROJECT_RO
 
 Otherwise, all the major sections of our system found in `{PROJECT_ROOT}/src` are either heavily documented or have a
 README inside their root folder meant to help guide the reader towards using our code.
+
+## Checkpoints & Data
+
+Checkpoints are coming soon as well as the version of the WANLI dataset used for the entailment model.
+
+The entailmentbank and Everday Norms: Why Not? datasets can be found in `data/full`
 
 ## Installation
 
