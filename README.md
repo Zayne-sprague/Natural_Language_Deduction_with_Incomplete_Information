@@ -24,6 +24,17 @@ README inside their root folder meant to help guide the reader towards using our
 1. `virtualenv venv` we have tested with python 3.8
 2. `source venv/bin/activate`
 3. `pip install -r requirements.txt`
+4. `python ./install.py` (expect this to take a long time based on your internet speed)
+
+Step 4 will download all the models needed to recreate the experiments from the paper as well as two small step models
+that also perform well.  (We use the smaller step models for testing/debugging and the 3billion parameter models for
+experiments.)
+
+You can see all the models that can be downloaded via
+`python ./install.py -s` 
+
+And you can install them individually via
+`python ./install.py -a abductive_heuristic abductive_step_model_small ...etc`
 
 ## Getting started (recreate paper results)
 

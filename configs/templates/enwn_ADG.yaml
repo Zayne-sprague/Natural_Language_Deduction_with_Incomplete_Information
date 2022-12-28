@@ -42,7 +42,7 @@ default:
 
   score_proofs:
     score_methods: ['forward_agreement']
-    forward_step_model_name: 'trained_models/t5_3b_eb_only_all_step'
+    forward_step_model_name: 't5_3b_eb_only_all_step'
     torch_devices: ['cuda:0', 'cuda:1', 'cuda:2', 'cuda:3']
 
   convert_to_csv:
@@ -56,14 +56,14 @@ abductive_and_forward:
   search:
     heuristic: "StepTypeModeled"
     step_types: ["abductive", "forward"]
-    step_model_names: ["trained_models/t5_3b_abductive_eb_only", "trained_models/t5_3b_eb_only_all_step"]
+    step_model_names: ["t5_3b_abductive_eb_only", "t5_3b_eb_only_all_step"]
     nums_return_sequences: [ 40 ]
 
 abductive_only:
   search:
     heuristic: "StepTypeModeled"
     step_types: [ "abductive" ]
-    step_model_names: [ "trained_models/t5_3b_abductive_eb_only" ]
+    step_model_names: [ "t5_3b_abductive_eb_only" ]
     nums_return_sequences: [ 40 ]
 
   score_searches:
@@ -79,7 +79,7 @@ forward_only:
   search:
     heuristic: "StepTypeModeled"
     step_types: ["forward"]
-    step_model_names: [ "trained_models/t5_3b_eb_only_all_step" ]
+    step_model_names: [ "t5_3b_eb_only_all_step" ]
     nums_return_sequences: [ 4 ]
 
   score_searches:

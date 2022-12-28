@@ -21,7 +21,7 @@ np.random.seed(0)
 
 import yaml
 
-from utils.paths import SEARCH_CONFIGS_FOLDER, SEARCH_OUTPUT_FOLDER, SEARCH_DATA_FOLDER
+from utils.paths import CONFIGS_FOLDER, OUTPUT_FOLDER, ENWN_FOLDER
 from utils.config_handler import merge_yaml_and_namespace
 from search.tree import Tree
 from scripts.create_shallow_trees import create_shallow_trees
@@ -78,7 +78,7 @@ if __name__ == "__main__":
                            choices=['abductive', 'forward', 'abductive_and_forward'],
                            default=['abductive_and_forward'],
                            help='Types of searches to experiment on.')
-    argparser.add_argument('--experiment_root_directory', '-erd', type=str, default=str(SEARCH_OUTPUT_FOLDER),
+    argparser.add_argument('--experiment_root_directory', '-erd', type=str, default=str(OUTPUT_FOLDER),
                            help='The root directory to save the experiment and its outputs.')
     argparser.add_argument('--experiment_name', '-en', type=str, default=f'm_exp_{timestamp}',
                            help='Name of the experiment (folder everything will be saved under in the '
@@ -128,11 +128,11 @@ if __name__ == "__main__":
     if resume:
         progress = reset_progress(progress, reset_to=resume_at)
 
-    orig_config_file = SEARCH_CONFIGS_FOLDER / 'enwn.yaml'
+    orig_config_file = CONFIGS_FOLDER / 'enwn.yaml'
     config_file = config_dir / 'config.yaml'
 
-    orig_data_file = SEARCH_DATA_FOLDER / 'enwn_full.json'
-    data_file = data_dir / 'raw_dataset__enwn_full.json'
+    orig_data_file = ENWN_FOLDER / 'enwn.json'
+    data_file = data_dir / 'raw_dataset__enwn.json'
     shallow_trees_data_file = data_dir / 'shallow_trees__m_task_1_test.json'
     missing_premise_data_file = data_dir / 'missing_premises__m_task_test.json'
     search_data_file = data_dir / 'tree_dataset.json'
