@@ -21,9 +21,7 @@ For examples on how to call our Step Models, Heuristics, etc. check `{PROJECT_RO
 Otherwise, all the major sections of our system found in `{PROJECT_ROOT}/src` are either heavily documented or have a
 README inside their root folder meant to help guide the reader towards using our code.
 
-## Checkpoints & Data
-
-Checkpoints are coming soon as well as the version of the WANLI dataset used for the entailment model.
+## Data
 
 The entailmentbank and Everday Norms: Why Not? datasets can be found in `data/full`
 
