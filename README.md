@@ -68,7 +68,7 @@ Make sure you run `pip install -r requirements.txt`
 ### Authors
 - Zayne Sprague
 - Kaj Bostrom
-- Swarat Chaduri
+- Swarat Chaudhuri
 - Greg Durrett
 
 
